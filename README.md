@@ -4,8 +4,8 @@
 <p>Tambien trabajo en el Municipio de Tigre como Desarrollador Web en el área de Desarrollo Tecnologico! 😄</p>
 <p>Me gusta charlar, debatir, pensar, tomar cafe y sobretodo ponerme a codear en mi espacio personal ☕🗣️</p>
 
-<p style="color:red;">Si indagas por mis repos te vas a poder encontrar con las siguientes tecnologias:</p>
-<ul>
+<p>Si indagas por mis repos te vas a poder encontrar con las siguientes tecnologias:</p>
+<ul style="list-style: none">
   <li>⚛️ ReactJS</li>
   <li>🖌️ CSS3</li>
   <li>📄 HTML5</li>
