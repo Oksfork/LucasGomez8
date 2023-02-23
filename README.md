@@ -1,7 +1,6 @@
 <h1>✨Buenasssss, como va?✨</h1>
-<p>Soy Lucas 🙋‍♂️, actualmente estoy estudiando de la Tecnicatura de Programacion de la Universidad Tecnologica Nacional. Ubicada en Buenos Aires, Argentina.</p>
-<p>Asi es... soy de Buenos Aires, Argentina 👯</p>
-<p>Tambien trabajo en el Municipio de Tigre como Desarrollador Web en el área de Desarrollo Tecnologico! 😄</p>
+<p>Soy Lucas 🙋‍♂️ Programador ya recibido</p>
+<p>Actualmente trabajo en el Municipio de Tigre como Desarrollador Full Stack en el área de Desarrollo Tecnologico! 😄</p>
 <p>Me gusta charlar, debatir, pensar, tomar cafe y sobretodo ponerme a codear en mi espacio personal ☕🗣️</p>
 
 <p style="color: red;">Si indagas por mis repos te vas a poder encontrar con las siguientes tecnologias 🤔</p>
